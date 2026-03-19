@@ -17,6 +17,6 @@
   * Navigating Through the Website
   * Conclusion
 
-## Introduction 👋
+## Introduction 
 
 My project seeks to utilize publicly available product information to support customers in selecting appropriate Sherwin-Williams paint products based on project requirements and product constraints, streamlining the decision-making process. Seeking to simplify and emphasize the versatility of Data Science within everyday life decisions.
