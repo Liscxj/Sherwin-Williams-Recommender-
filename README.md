@@ -18,5 +18,13 @@
   * Conclusion
 
 ## Introduction 
+This project focuses on building a paint recommendation system that helps customers select appropriate Sherwin-Williams paint products using structured product data, feature engineering, and clustering techniques to better organize and differentiate similar products. By combining multiple datasets and applying user-driven filters, the system identifies the most relevant options. The final Flask web application delivers tailored paint recommendations with key attributes, simplifying the selection process.
 
-My project seeks to use publicly available product information to help customers select appropriate Sherwin-Williams paint products based on project requirements and product constraints, streamlining the decision-making process. Seeking to simplify and emphasize the versatility of Data Science within everyday life decisions.
+## Advanced Topics
+- Feature Engineering (0.5 points)
+- Database Creation (1 point)
+- Combining Datasets (0.5 points)
+- Website Using Flask (1 point)
+- K-Means Clustering (1 point)
+
+
