@@ -30,3 +30,7 @@ This project focuses on building a paint recommendation system that helps custom
 - **K-Means Clustering (1 point):** Applied K-means clustering to group similar paint products based on engineered features, and labeled clusters to create interpretable product categories.
 
 
+## Gathering and Cleaning Data
+---
+**Gathering Data**
+My data was sourced from the Sherwin-Williams website, where Product Data Sheets (PDS) are readily available for all paint products. My secondary source of data was sourced from the Paint Grades Guide.
