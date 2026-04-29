@@ -32,5 +32,34 @@ This project focuses on building a paint recommendation system that helps custom
 
 ## Gathering and Cleaning Data
 ---
-**Gathering Data**
+ **Gathering Data**
+ 
 My data was sourced from the Sherwin-Williams website, where Product Data Sheets (PDS) are readily available for all paint products. My secondary source of data was sourced from the Paint Grades Guide.
+
+Sherwin-Williams PDS Link: https://www.sherwin-williams.com/painting-contractors/products/data-sheets?msockid=0af8c3a5954466053fa3d76c94ea67ce
+
+Key Variables:
+-Product_ID: 
+-Product_Name:
+-Interior:
+-Exterior:
+-VOC_Value:
+-Recoat_Dry_Time
+-Coverage_Min:
+-Coverage_Max:
+-Cleanup:
+-Price_Tier
+-Type:
+-Description:
+-Sheen:
+-Appearance:
+-Easy_Clean:
+-Durability:
+-Mold_&_Mildew:
+-Coverage:
+-Application:
+-QSum: 
+-Base:
+-Surface:
+
+
