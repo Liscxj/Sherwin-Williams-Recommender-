@@ -71,6 +71,10 @@ Key Variables:
 **Combining Datasets**
 
 ## Building out the Recommender System 🛠️
+<img width="199" height="623" alt="Screenshot 2026-04-21 143243" src="https://github.com/user-attachments/assets/eb5c04f5-8084-48c6-9e4a-d3dfca77f006" />
+<img width="657" height="838" alt="PDS Example" src="https://github.com/user-attachments/assets/5bdb7511-b5e8-40ff-a284-46fbfe76a9d2" />
+<img width="199" height="623" alt="pipeline" src="https://github.com/user-attachments/assets/29f7fbdb-9146-4db4-8fa8-257370e238ac" />
+
 
 **Feature Engineering & K-Means Clustering**
 
