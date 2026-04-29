@@ -4,7 +4,7 @@
 - Belmont University
 - Author: Lis Caxaj
 
-# Table of Contents
+# Table of Contents 🗒️
 ---
   * Introduction
   * Overview of Advanced Topics
@@ -19,10 +19,10 @@
   * Navigating Through the Website
   * Conclusion
 
-## Introduction 
+## Introduction 💬
 This project focuses on building a paint recommendation system that helps customers select appropriate Sherwin-Williams paint products using structured product data, feature engineering, and clustering techniques to better organize and differentiate similar products. By combining multiple datasets and applying user-driven filters, the system identifies the most relevant options. The final Flask web application delivers tailored paint recommendations with key attributes, simplifying the selection process.
 
-## Advanced Topics
+## Advanced Topics 💡
 - **Feature Engineering (0.5 points):** Created structured features from PDS and Paint Grades Guide data (durability, coverage, appearance). Built a composite score (QSum) for ranking, cleaned numeric fields (VOC, dry time, coverage), and encoded categorical variables (type, price tier) for clustering.
 - **Database Creation (1 point):** Constructed a custom database by extracting and organizing product attributes from publicly available Sherwin-Williams data sources into structured CSV files.
 - **Combining Datasets (0.5 points):** Combined multiple datasets by merging product, quality, and sheen data using Product_ID to create a unified dataset for analysis.
@@ -30,7 +30,7 @@ This project focuses on building a paint recommendation system that helps custom
 - **K-Means Clustering (1 point):** Applied K-means clustering to group similar paint products based on engineered features, and labeled clusters to create interpretable product categories.
 
 
-## Gathering and Cleaning Data
+## Gathering and Cleaning Data 📚
 ---
  **Gathering Data**
  
@@ -64,17 +64,17 @@ Key Variables:
 
 <img width="657" height="838" alt="PDS Example" src="https://github.com/user-attachments/assets/198dae40-1309-4c0b-93a2-79e07dd3c009" />
 
-## Data Cleaning 
+## Data Cleaning 🧹
 
 ## Database Creation
 
 **Combining Datasets**
 
-## Building out the Recommender System
+## Building out the Recommender System 🛠️
 
 **Feature Engineering & K-Means Clustering**
 
-## Website Creation Using Flask
+## Website Creation Using Flask 💻
 
 ## Navigating Through the Website
 
