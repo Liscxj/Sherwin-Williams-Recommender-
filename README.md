@@ -80,5 +80,11 @@ Key Variables:
 
 ## Navigating Through the Website
 
+**Homepage**
+<img width="818" height="734" alt="SWRS Homescreen" src="https://github.com/user-attachments/assets/c544eaa8-d238-4edd-9cea-4bea1a5508da" />
+**Results Page**
+<img width="913" height="890" alt="SWRS Output" src="https://github.com/user-attachments/assets/e65a8fed-d55f-4116-8088-f13f220b6355" />
+
+
 ## Conclusion
 
