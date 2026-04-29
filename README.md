@@ -39,8 +39,8 @@ My data was sourced from the Sherwin-Williams website, where Product Data Sheets
 Sherwin-Williams PDS Link: https://www.sherwin-williams.com/painting-contractors/products/data-sheets?msockid=0af8c3a5954466053fa3d76c94ea67ce
 
 Key Variables:
--Product_ID: 
--Product_Name:
+- Product_ID: 
+- Product_Name:
 -Interior:
 -Exterior:
 -VOC_Value:
