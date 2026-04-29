@@ -40,7 +40,8 @@ Sherwin-Williams PDS Link: https://www.sherwin-williams.com/painting-contractors
 
 Key Variables:
 - **Product_ID:** unique primary key assigned to all paints
-- **Product_Name:** paint product name
+- **Product_Name:** paint product name<img width="1285" height="733" alt="K_Means_Clusters" src="https://github.com/user-attachments/assets/eaf8223a-55fb-491c-9403-2e0f6bb089a9" />
+
 - **Interior:** classification of paint suitable for interior use 
 - **Exterior:** classification of paint suitable for exterior use
 - **VOC_Value:** volatile organic compound value of paint
@@ -75,6 +76,8 @@ Key Variables:
 
 
 **Feature Engineering & K-Means Clustering**
+<img width="1285" height="733" alt="K_Means_Clusters" src="https://github.com/user-attachments/assets/2b69f4e0-6ad0-4401-aabe-0fd94bec182f" />
+
 
 ## Website Creation Using Flask 💻
 
