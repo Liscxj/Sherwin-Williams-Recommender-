@@ -12,7 +12,7 @@
     * Dataset Description
     * Data Cleaning
   * Database Creation
-   * Combining Datasets
+    * Combining Datasets
   * Building out the Recommender System
     * Feature Engineering and K-Means Clustering
   * Website Creation Using Flask
