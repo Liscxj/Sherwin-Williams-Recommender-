@@ -41,25 +41,25 @@ Sherwin-Williams PDS Link: https://www.sherwin-williams.com/painting-contractors
 Key Variables:
 - Product_ID: 
 - Product_Name:
--Interior:
--Exterior:
--VOC_Value:
--Recoat_Dry_Time
--Coverage_Min:
--Coverage_Max:
--Cleanup:
--Price_Tier
--Type:
--Description:
--Sheen:
--Appearance:
--Easy_Clean:
--Durability:
--Mold_&_Mildew:
--Coverage:
--Application:
--QSum: 
--Base:
--Surface:
+- Interior:
+- Exterior:
+- VOC_Value:
+- Recoat_Dry_Time
+- Coverage_Min:
+- Coverage_Max:
+- Cleanup:
+- Price_Tier
+- Type:
+- Description:
+- Sheen:
+- Appearance:
+- Easy_Clean:
+- Durability:
+- Mold_&_Mildew:
+- Coverage:
+- Application:
+- QSum: 
+- Base:
+- Surface:
 
 
