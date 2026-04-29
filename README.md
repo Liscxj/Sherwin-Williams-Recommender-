@@ -42,25 +42,41 @@ Key Variables:
 - **Product_ID:** unique primary key assigned to all paints
 - **Product_Name:** paint product name
 - **Interior:** classification of paint suitable for interior use 
-- **Exterior:** classifcation of paint suitable for exterior use
+- **Exterior:** classification of paint suitable for exterior use
 - **VOC_Value:** volatile organic compound value of paint
 - **Recoat_Dry_Time:** dry time for a recoat job
 - **Coverage_Min:** minimum coverage value of paint
 - **Coverage_Max:** maximum coverage value pf paint
-- **Cleanup:** refers to the removal of paint based on it being alkyd or latex based (paint thinner/ water cleanup)
+- **Cleanup:** refers to the removal of paint based on it being alkyd or latex-based (paint thinner/ water cleanup)
 - **Price_Tier:** price tier of paint
 - **Type:** classification of wall, trim, or ceiling paint
 - **Description:** short description of paint
 - **Sheen:** level of shine on a paint
 - **Appearance:** appearence of paint
 - **Easy_Clean:** categorizes how easy it is to clean the dirty surface of a paint 
-- **Durability:** categorizes how durbale a paint is in terms of wear and damage
+- **Durability:** categorizes how durable a paint is in terms of wear and damage
 - **Mold_&_Mildew:** categorizes how resistant a paint is to mold and mildew
 - **Coverage:** ranks the coat coverage of a paint 
 - **Application:** ranks how silky and smooth the application of a paint is
 - **QSum:** numerically sums up all individual categorical aspects pulled from the paint grade guide for every paint
 - **Base:** classifies if light, dark, very dark, or vibrant accent colors can be mixed in a paint
-- **Surface:** classifies what type of surface the paint can be applied on
-
+- **Surface:** classifies what type of surface the paint can be applied to
 
 <img width="657" height="838" alt="PDS Example" src="https://github.com/user-attachments/assets/198dae40-1309-4c0b-93a2-79e07dd3c009" />
+
+## Data Cleaning 
+
+## Database Creation
+
+**Combining Datasets**
+
+## Building out the Recommender System
+
+**Feature Engineering & K-Means Clustering**
+
+## Website Creation Using Flask
+
+## Navigating Through the Website
+
+## Conclusion
+
