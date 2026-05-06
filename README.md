@@ -87,10 +87,10 @@ To further enhance the recommender systems, K-means clustering was applied to fu
 ## K-Means Clustering
 K-means clustering revealed 4 distinct paint groups based on their shared product characteristics of VOC values, dry time, coverage, etc.
 
-- Cluster 0: contained 2 paints, which were identified as being specialty coatings with high VOC values and longer recoat times. (Specialty Coating Cluster)
-- Cluster 1: contained 11 paints, which ranked with high QSum scores, low VOC values, and fast recoat times. (Premium Performance Cluster)
-- Cluster 2: contained 8 paints, which contained paints with lower QSum scores and more standard dry times. (Standard Coating Cluster)
-- Cluster 3: contained 4 paints, which contained paints that primarily emphasized exterior-focused applications. (Exterior Coatings)
+- Cluster 0 **(Specialty Coating Cluster)**: contained 2 paints, which were identified as being specialty coatings with high VOC values and longer recoat times.
+- Cluster 1: **(Premium Performance Cluster)** contained 11 paints, which ranked with high QSum scores, low VOC values, and fast recoat times. 
+- Cluster 2: **(Standard Coating Cluster)** contained 8 paints, which contained paints with lower QSum scores and more standard dry times. 
+- Cluster 3: **(Exterior Coatings Cluster)** contained 4 paints, which contained paints that primarily emphasized exterior-focused applications. 
 
 <img width="1169" height="377" alt="image" src="https://github.com/user-attachments/assets/7cb7305d-012a-4fc8-9ef6-373b461e1102" />
 
