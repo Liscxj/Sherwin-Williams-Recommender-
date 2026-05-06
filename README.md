@@ -66,7 +66,12 @@ Key Features:
 
 <img width="657" height="838" alt="PDS Example" src="https://github.com/user-attachments/assets/198dae40-1309-4c0b-93a2-79e07dd3c009" />
 
-<img width="884" height="703" alt="image" src="https://github.com/user-attachments/assets/5f0cd78a-70dd-4654-a6ed-189872a69c14" />
+<img width="898" height="378" alt="image" src="https://github.com/user-attachments/assets/6bf29672-fdfa-4bf1-9528-55a6f4d88c18" />
+
+<img width="890" height="329" alt="image" src="https://github.com/user-attachments/assets/bda22d3a-8009-43e4-b98d-489ed1e93620" />
+
+<img width="228" height="537" alt="image" src="https://github.com/user-attachments/assets/a825c6ee-0af0-46bb-8e15-4442a0404e3b" />
+
 
 
 ## Data Cleaning 🧹
