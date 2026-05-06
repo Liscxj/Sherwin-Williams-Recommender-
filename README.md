@@ -70,10 +70,16 @@ Key Features:
 
 <img width="890" height="329" alt="image" src="https://github.com/user-attachments/assets/bda22d3a-8009-43e4-b98d-489ed1e93620" />
 
-## Database Creation
-1. Normalization & Text Cleaning
-- Key features were manually extracted, and text was standardized through CSVs
-**Combining Datasets**
+## 1. Database Creation
+- Extracted key product attributes from the PDS and Paint Grades Guide into structured CSV datasets.
+- Standardized text, cleaned special characters, and organized separate normalized tables connected through Product_ID.
+
+## 2. Combining Datasets
+- Combined product, quality, sheen, and base datasets using Product_ID to create a unified dataset for analysis and filtering.
+
+## 3. Feature Engineering
+- Created structured features from Paint Grades Guide data and developed a composite score (QSum) for ranking.
+- Encoded categorical variables such as paint type and price tier for clustering purposes.
 
 ## Building out the Recommender System 🛠️
 <img width="199" height="623" alt="Screenshot 2026-04-21 143243" src="https://github.com/user-attachments/assets/eb5c04f5-8084-48c6-9e4a-d3dfca77f006" />
