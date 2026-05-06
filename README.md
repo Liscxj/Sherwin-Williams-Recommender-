@@ -115,7 +115,7 @@ To allow users to interact with the recommender systems, Flask was used to intak
   - In addition to this, this file contains the "find paints" form that communicates and sends the selected choices from the dropdowns to app.py, where it is then filtered, and recommendation logic is applied
 
 **results.html**
--This file serves to display the recommendation output page, where the product cards display items such as:
+- This file serves to display the recommendation output page, where the product cards display items such as:
      -product name
      -quality score & star rating
      -price tier
