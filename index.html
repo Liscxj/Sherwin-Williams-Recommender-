@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sherwin-Williams Paint Recommender</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f7f4f6;
+            margin: 0;
+            padding: 40px;
+        }
+
+        .container {
+            max-width: 700px;
+            background: white;
+            padding: 30px 40px;
+            border-radius: 18px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+        }
+
+        h1 {
+            margin-top: 0;
+            color: #2d2d2d;
+            font-size: 38px;
+        }
+
+        p {
+            color: #555;
+            margin-bottom: 30px;
+            font-size: 18px;
+        }
+
+        .form-group {
+            margin-bottom: 22px;
+        }
+
+        label {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 8px;
+            font-size: 16px;
+        }
+
+        select {
+            width: 100%;
+            max-width: 400px;
+            padding: 12px 14px;
+            border-radius: 10px;
+            border: 1px solid #ccc;
+            font-size: 16px;
+            background: white;
+        }
+
+        button {
+            margin-top: 14px;
+            background-color: #c98fa3;
+            color: white;
+            border: none;
+            padding: 14px 22px;
+            border-radius: 10px;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #b97f93;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Sherwin-Williams Paint Recommender</h1>
+        <p>Choose the project needs below to find matching paint products.</p>
+
+        <form action="/recommend" method="post">
+            <div class="form-group">
+                <label for="use_area">Where will the paint be used?</label>
+                <select name="use_area" id="use_area" required>
+                    <option value="Interior">Interior</option>
+                    <option value="Exterior">Exterior</option>
+                    <option value="Interior/Exterior">Interior/Exterior</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="paint_type">Project surface type</label>
+                <select name="paint_type" id="paint_type">
+                    <option value="">Any</option>
+                    <option value="Wall">Wall</option>
+                    <option value="Trim">Trim</option>
+                    <option value="Ceiling">Ceiling</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="price_tier">Budget level</label>
+                <select name="price_tier" id="price_tier">
+                    <option value="">Any</option>
+                    <option value="$">$</option>
+                    <option value="$$">$$</option>
+                    <option value="$$$">$$$</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="color_plan">What kind of color are you planning to use?</label>
+                <select name="color_plan" id="color_plan">
+                    <option value="">Any</option>
+                    <option value="Light colors / whites">Light colors / whites</option>
+                    <option value="Medium or dark colors">Medium or dark colors</option>
+                    <option value="Very dark / very bold colors">Very dark / very bold colors</option>
+                    <option value="Bright reds, greens, or yellows">Bright reds, greens, or yellows</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="sheen">Finish / Sheen</label>
+                <select name="sheen" id="sheen">
+                    <option value="">Any</option>
+                    <option value="Flat">Flat</option>
+                    <option value="Matte">Matte</option>
+                    <option value="Eggshell">Eggshell</option>
+                    <option value="Low Sheen Eggshell">Low Sheen Eggshell</option>
+                    <option value="Satin">Satin</option>
+                    <option value="Semigloss">Semigloss</option>
+                    <option value="Gloss">Gloss</option>
+                    <option value="High Gloss">High Gloss</option>
+                    <option value="Low Sheen">Low Sheen</option>
+                    <option value="Low Lustre">Low Lustre</option>
+                    <option value="Medium Lustre">Medium Lustre</option>
+                    <option value="Pearl">Pearl</option>
+                    <option value="Velvet">Velvet</option>
+                </select>
+            </div>
+
+            <button type="submit">Find Paints</button>
+        </form>
+    </div>
+</body>
+</html>
