@@ -131,11 +131,13 @@ To allow users to interact with the recommender systems, Flask was used to intak
 After the main flask application is called, users are faced with a homepage detailing the name of the recommender system, "Sherwin-Williams Paint Recommender". Following a short description informing users of the website's aim, users are then prompted to select dropdowns that fit their paint project needs. After selecting all the paint project needs the "Find Paints" button is then ready to be pressed to direct users to their tailored recommendations.
 
 The results page then displays the number of results found according to the dropdowns selected. Alongside detailing product cards that contain important information on each product, such as their available finishes, descriptions, price tier, performance aspects, & cluster grouping.
+
 **Homepage**
 <img width="802" height="734" alt="SWRS Output Em" src="https://github.com/user-attachments/assets/85c81402-535b-4705-b1d5-7bfdbb8fb877" />
 
 **Results Page**
-<img width="913" height="890" alt="SWRS Output" src="https://github.com/user-attachments/assets/e65a8fed-d55f-4116-8088-f13f220b6355" />
+<img width="1105" height="889" alt="image" src="https://github.com/user-attachments/assets/4895765a-1051-4bb1-9ddc-4bd0b942b5d1" />
+
 
 ## Conclusion
-
+In conclusion, the final product recommender system allows information to be more easily divulged by the user by presenting it in a more concise way and displaying the attributes most important to homeowners. While the current system easily achieves this goal, future improvements towards this project include, but are not limited to, finding an avenue in which the database is not static so that newly rolled out Sherwin-Williams products, such as "Forte" and "Symmetry," are involved in order to provide a better and up-to-date recommendation. In addition, user-weighted preferences could add another layer to better tailor to the more specified project needs of a user. All in all, this project could be scaled even further than the current output.
