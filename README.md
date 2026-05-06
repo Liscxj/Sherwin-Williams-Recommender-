@@ -1,4 +1,4 @@
-[Sherwin Williams PDSDB 2 - Sherwin PDS Links.csv](https://github.com/user-attachments/files/27420363/Sherwin.Williams.PDSDB.2.-.Sherwin.PDS.Links.csv)# SWRS - Sherwin-Williams Recommender System 🎨
+# SWRS - Sherwin-Williams Recommender System 🎨
 - May 5 2026
 - DSC 4900 - Data Science Project/Portfolio
 - Belmont University
