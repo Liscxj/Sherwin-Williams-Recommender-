@@ -36,7 +36,8 @@ As a homeowner, selecting the appropriate paint based on project needs and quali
  
 My data was sourced from the Sherwin-Williams website, where Product Data Sheets (PDS) are readily available for all paint products. My secondary source of data was sourced from the Sherwin-Williams Paint Grades Guide.
 
-Sherwin-Williams PDS Website Link: https://www.sherwin-williams.com/painting-contractors/products/data-sheets?msockid=0af8c3a5954466053fa3d76c94ea67ce
+Sherwin-Williams PDS Website Link:
+https://www.sherwin-williams.com/painting-contractors/products/data-sheets?msockid=0af8c3a5954466053fa3d76c94ea67ce
 
 Key Features:
 - **Product_ID:** unique primary key assigned to all paints
