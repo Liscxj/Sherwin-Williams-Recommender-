@@ -14,7 +14,7 @@
     * Combining Datasets
     * Feature Engineering
   * Building out the Recommender System
-    * Feature Engineering and K-Means Clustering
+    * K-Means Clustering
   * Website Creation Using Flask
   * Navigating Through the Website
   * Conclusion
@@ -83,11 +83,21 @@ Key Features:
 - Encoded categorical variables such as paint type and price tier for clustering purposes.
 
 ## Building out the Recommender System 🛠️
+To further enhance the recommender systems, K-means clustering was applied to further aid in differentiating products to help emphasize any differences.
+## K-Means Clustering
+K-means clustering revealed 4 distinct paint groups based on their shared product characteristics of VOC values, dry time, coverage, etc.
+
+- Cluster 0: contained 2 paints, which were identified as being specialty coatings with high VOC values and longer recoat times. (Specialty Coating Cluster)
+- Cluster 1: contained 11 paints, which ranked with high QSum scores, low VOC values, and fast recoat times. (Premium Performance Cluster)
+- Cluster 2: contained 8 paints, which contained paints with lower QSum scores and more standard dry times. (Standard Coating Cluster)
+- Cluster 3: contained 4 paints, which contained paints that primarily emphasized exterior-focused applications. (Exterior Coatings)
+
+<img width="1169" height="377" alt="image" src="https://github.com/user-attachments/assets/7cb7305d-012a-4fc8-9ef6-373b461e1102" />
+
+
+
 <img width="199" height="623" alt="Screenshot 2026-04-21 143243" src="https://github.com/user-attachments/assets/eb5c04f5-8084-48c6-9e4a-d3dfca77f006" />
 
-
-**Feature Engineering & K-Means Clustering**
-<img width="1285" height="733" alt="K_Means_Clusters" src="https://github.com/user-attachments/assets/2b69f4e0-6ad0-4401-aabe-0fd94bec182f" />
 
 
 ## Website Creation Using Flask 💻
