@@ -71,7 +71,8 @@ Key Features:
 <img width="890" height="329" alt="image" src="https://github.com/user-attachments/assets/bda22d3a-8009-43e4-b98d-489ed1e93620" />
 
 ## Database Creation
-
+1. Normalization & Text Cleaning
+- Key features were manually extracted, and text was standardized through CSVs
 **Combining Datasets**
 
 ## Building out the Recommender System 🛠️
