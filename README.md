@@ -69,9 +69,9 @@ Key Features:
 
 <img width="898" height="378" alt="image" src="https://github.com/user-attachments/assets/6bf29672-fdfa-4bf1-9528-55a6f4d88c18" />
 
-<img width="790" height="329" alt="image" src="https://github.com/user-attachments/assets/bda22d3a-8009-43e4-b98d-489ed1e93620" />
+<img width="890" height="329" alt="image" src="https://github.com/user-attachments/assets/bda22d3a-8009-43e4-b98d-489ed1e93620" />
 
-<img width="100" height="329" alt="image" src="https://github.com/user-attachments/assets/a825c6ee-0af0-46bb-8e15-4442a0404e3b" />
+<img width="200" height="329" alt="image" src="https://github.com/user-attachments/assets/a825c6ee-0af0-46bb-8e15-4442a0404e3b" />
 
 
 ## Data Cleaning 🧹
