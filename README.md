@@ -94,12 +94,6 @@ K-means clustering revealed 4 distinct paint groups based on their shared produc
 
 <img width="1169" height="377" alt="image" src="https://github.com/user-attachments/assets/7cb7305d-012a-4fc8-9ef6-373b461e1102" />
 
-
-
-<img width="199" height="623" alt="Screenshot 2026-04-21 143243" src="https://github.com/user-attachments/assets/eb5c04f5-8084-48c6-9e4a-d3dfca77f006" />
-
-
-
 ## Website Creation Using Flask 💻
 
 ## Navigating Through the Website
