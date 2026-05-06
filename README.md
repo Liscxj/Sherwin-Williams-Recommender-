@@ -16,6 +16,10 @@
   * Building out the Recommender System
     * K-Means Clustering
   * Website Creation Using Flask
+    * app.py
+    * filters.py
+    * index.html
+    * results.html
   * Navigating Through the Website
   * Conclusion
 
