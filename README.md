@@ -97,25 +97,25 @@ K-means clustering revealed 4 distinct paint groups based on their shared produc
 ## Website Creation Using Flask 💻
 To allow users to interact with the recommender systems, Flask was used to intake user input. To create this bridge between Python and Flask, multiple files were created:
 
-- **app.py:**
+**app.py:**
 - Main Flask application file in charge of loading datasets, running the clusters, handling user input from the Flask website, applying both filtering and ranking logic, and sending the recommendations to the HTML results page
   
-- **filters.py**
--Python file tasked with supporting app.py through housing the framework necessary for K-means, Pandas, & StandardScaler, which enable the recommender system to filter the paints based on the user's website selections (interior/exterior use, paint type, price tier, sheen, base options)
--This file also houses the "assign_kmeans_clusters() function tasked with preparing the data for clustering, then converting this data from text into numerical categories, filling missing values, scaling the data, applying k-means, and assigning the paints a cluster #, then later applying text labels to said numbers
--In addition, this file also prints cluster summaries in the terminal for cluster analysis
+**filters.py**
+- Python file tasked with supporting app.py through housing the framework necessary for K-means, Pandas, & StandardScaler, which enable the recommender system to filter the paints based on the user's website selections (interior/exterior use, paint type, price tier, sheen, base options)
+- This file also houses the "assign_kmeans_clusters() function tasked with preparing the data for clustering, then converting this data from text into numerical categories, filling missing values, scaling the data, applying k-means, and assigning the paints a cluster #, then later applying text labels to said numbers
+- In addition, this file also prints cluster summaries in the terminal for cluster analysis
 
-- **index.html:**
--This file serves as the homepage for the recommender system, where users can select paint preferences such as:
+**index.html:**
+- This file serves as the homepage for the recommender system, where users can select paint preferences such as:
      - where the paint will be used
      - project budget
      - color information
      - preferred sheen
      - project surface
-  -In addition to this, this file contains the "find paints" form that communicates and sends the selected choices from the dropdowns to app.py, where it is then filtered, and recommendation logic is applied
+  - In addition to this, this file contains the "find paints" form that communicates and sends the selected choices from the dropdowns to app.py, where it is then filtered, and recommendation logic is applied
 
-- **results.html**
--This file serves to display the recommendation output page, where the product cards display items such as:
+**results.html**
+- This file serves to display the recommendation output page, where the product cards display items such as:
       -product name
        -quality score & star rating
        -price tier
