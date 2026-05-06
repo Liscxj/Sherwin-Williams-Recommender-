@@ -34,7 +34,7 @@ As a homeowner, selecting the appropriate paint based on project needs and quali
 ---
  **Gathering Data**
  
-My data was sourced from the Sherwin-Williams website, where Product Data Sheets (PDS) are readily available for all paint products. My secondary source of data was sourced from the Sherwin-Williams Paint Grades Guide.
+My data was sourced from the Sherwin-Williams website, where Product Data Sheets (PDS) are readily available for all paint products. A secondary data source used was the Sherwin-Williams Paint Grades Guide. Using these two data sources, I created a master database that housed the collected data and key product attributes, later transforming the data into CSV files for use throughout the project
 
 Sherwin-Williams PDS Website Link:
 https://www.sherwin-williams.com/painting-contractors/products/data-sheets?msockid=0af8c3a5954466053fa3d76c94ea67ce
@@ -72,7 +72,6 @@ Key Features:
 <img width="890" height="329" alt="image" src="https://github.com/user-attachments/assets/bda22d3a-8009-43e4-b98d-489ed1e93620" />
 
 <img width="228" height="537" alt="image" src="https://github.com/user-attachments/assets/a825c6ee-0af0-46bb-8e15-4442a0404e3b" />
-
 
 
 ## Data Cleaning 🧹
