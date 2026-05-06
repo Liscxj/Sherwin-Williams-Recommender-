@@ -62,9 +62,12 @@ Key Features:
 - **Base:** classifies if light, dark, very dark, or vibrant accent colors can be mixed in a paint
 - **Surface:** classifies what type of surface the paint can be applied to
 
- **PDS Example**
+ **PDS Example & Paint Grades Guide Example**
 
 <img width="657" height="838" alt="PDS Example" src="https://github.com/user-attachments/assets/198dae40-1309-4c0b-93a2-79e07dd3c009" />
+
+<img width="884" height="703" alt="image" src="https://github.com/user-attachments/assets/5f0cd78a-70dd-4654-a6ed-189872a69c14" />
+
 
 ## Data Cleaning 🧹
 
