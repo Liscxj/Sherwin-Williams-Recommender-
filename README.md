@@ -10,7 +10,6 @@
   * Overview of Advanced Topics
   * Gathering and Cleaning Data
     * Dataset Description
-    * Data Cleaning
   * Database Creation
     * Combining Datasets
   * Building out the Recommender System
@@ -70,9 +69,6 @@ Key Features:
 <img width="898" height="378" alt="image" src="https://github.com/user-attachments/assets/6bf29672-fdfa-4bf1-9528-55a6f4d88c18" />
 
 <img width="890" height="329" alt="image" src="https://github.com/user-attachments/assets/bda22d3a-8009-43e4-b98d-489ed1e93620" />
-
-
-## Data Cleaning 🧹
 
 ## Database Creation
 
