@@ -20,7 +20,7 @@
   * Conclusion
 
 ## Introduction 💬
-This project focuses on building a paint recommendation system that helps customers select appropriate Sherwin-Williams paint products using structured product data, feature engineering, and clustering techniques to better organize and differentiate similar products. By combining multiple datasets and applying user-driven filters, the system identifies the most relevant options. The final Flask web application delivers tailored paint recommendations with key attributes, simplifying the selection process.
+As a homeowner, selecting the appropriate paint based on project needs and qualifying characteristics can be a daunting task when faced with a multitude of options. This Sherwin-Williams Recommender System aims to simplify the selection process by delivering a final Flask web application that provides tailored paint recommendations while highlighting key paint attributes to efficiently present information and reduce noise. This project accomplishes this by using structured product data, feature engineering, and clustering techniques to better organize and differentiate similar products. By combining multiple datasets and applying user-driven filters, the system identifies the most relevant options for consumers.
 
 ## Advanced Topics 💡
 - **Feature Engineering (0.5 points):** Created structured features from PDS and Paint Grades Guide data (durability, coverage, appearance). Built a composite score (QSum) for ranking, cleaned numeric fields (VOC, dry time, coverage), and encoded categorical variables (type, price tier) for clustering.
@@ -38,7 +38,7 @@ My data was sourced from the Sherwin-Williams website, where Product Data Sheets
 
 Sherwin-Williams PDS Link: https://www.sherwin-williams.com/painting-contractors/products/data-sheets?msockid=0af8c3a5954466053fa3d76c94ea67ce
 
-Key Variables:
+Key Features:
 - **Product_ID:** unique primary key assigned to all paints
 - **Product_Name:** paint product name
 - **Interior:** classification of paint suitable for interior use 
@@ -53,7 +53,7 @@ Key Variables:
 - **Description:** short description of paint
 - **Sheen:** level of shine on a paint
 - **Appearance:** appearence of paint
-- **Easy_Clean:** categorizes how easy it is to clean the dirty surface of a paint 
+- **Easy_Clean:** categorizes how easy it is to clean the dirty surface of a dried paint 
 - **Durability:** categorizes how durable a paint is in terms of wear and damage
 - **Mold_&_Mildew:** categorizes how resistant a paint is to mold and mildew
 - **Coverage:** ranks the coat coverage of a paint 
@@ -61,6 +61,8 @@ Key Variables:
 - **QSum:** numerically sums up all individual categorical aspects pulled from the paint grade guide for every paint
 - **Base:** classifies if light, dark, very dark, or vibrant accent colors can be mixed in a paint
 - **Surface:** classifies what type of surface the paint can be applied to
+
+ **PDS Example**
 
 <img width="657" height="838" alt="PDS Example" src="https://github.com/user-attachments/assets/198dae40-1309-4c0b-93a2-79e07dd3c009" />
 
