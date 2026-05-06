@@ -128,14 +128,14 @@ To allow users to interact with the recommender systems, Flask was used to intak
      - cluster label
      - "best matched" icon for the best result from selections
 ## Navigating Through the Website
+After the main flask application is called, users are faced with a homepage detailing the name of the recommender system, "Sherwin-Williams Paint Recommender". Following a short description informing users of the website's aim, users are then prompted to select dropdowns that fit their paint project needs. After selecting all the paint project needs the "Find Paints" button is then ready to be pressed to direct users to their tailored recommendations.
 
+The results page then displays the number of results found according to the dropdowns selected. Alongside detailing product cards that contain important information on each product, such as their available finishes, descriptions, price tier, performance aspects, & cluster grouping.
 **Homepage**
-
 <img width="802" height="734" alt="SWRS Output Em" src="https://github.com/user-attachments/assets/85c81402-535b-4705-b1d5-7bfdbb8fb877" />
 
 **Results Page**
 <img width="913" height="890" alt="SWRS Output" src="https://github.com/user-attachments/assets/e65a8fed-d55f-4116-8088-f13f220b6355" />
-
 
 ## Conclusion
 
