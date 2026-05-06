@@ -1,4 +1,4 @@
-# SWRS - Sherwin-Williams Recommender System 🎨
+[Sherwin Williams PDSDB 2 - Sherwin PDS Links.csv](https://github.com/user-attachments/files/27420363/Sherwin.Williams.PDSDB.2.-.Sherwin.PDS.Links.csv)# SWRS - Sherwin-Williams Recommender System 🎨
 - May 5 2026
 - DSC 4900 - Data Science Project/Portfolio
 - Belmont University
@@ -37,6 +37,34 @@ As a homeowner, selecting the appropriate paint based on project needs and quali
 My data was sourced from the Sherwin-Williams website, where Product Data Sheets (PDS) are readily available for all paint products. My secondary source of data was sourced from the Sherwin-Williams Paint Grades Guide.
 
 Sherwin-Williams PDS Link: https://www.sherwin-williams.com/painting-contractors/products/data-sheets?msockid=0af8c3a5954466053fa3d76c94ea67ce
+
+[Uploading Sherwin WillProduct_Name,PDS _Link
+Promar 400,https://www.sherwin-williams.com/document/PDS/en/035777104361/
+Promar 200 ,ProMar® 200 Zero V.O.C. Interior Latex Flat
+Promar Ceiling,https://www.sherwin-williams.com/document/PDS/en/035777255100/
+Extreme Cover,https://www.sherwin-williams.com/document/PDS/en/035777856314/
+Painters Edge,https://www.sherwin-williams.com/document/PDS/en/035777960967/
+Midsouth,https://www.sherwin-williams.com/document/PDS/en/035777649350/
+SnapDry,https://www.sherwin-williams.com/document/PDS/en/035777356500/
+Cashmere ,Cashmere® Interior Latex Eg-Shel
+Superpaint ,https://www.sherwin-williams.com/document/PDS/en/035777309247/
+Duration ,https://www.sherwin-williams.com/document/PDS/en/035777252956/
+Emerald ,https://www.sherwin-williams.com/document/PDS/en/035777359587/
+Emeral Designer ,https://www.sherwin-williams.com/document/PDS/en/035777923931/
+Proclassic Oil,https://www.sherwin-williams.com/document/PDS/en/035777501641/
+All Surface Enamel Oil,https://www.sherwin-williams.com/document/PDS/en/035777476352/
+All Surface Enamel Latex,https://www.sherwin-williams.com/document/PDS/en/035777310830//
+Emerald Urethane,https://www.sherwin-williams.com/document/PDS/en/035777948101/
+Solo,https://www.sherwin-williams.com/document/PDS/en/035777387757/
+Superpaint ,https://www.sherwin-williams.com/document/PDS/en/035777144244/
+Duration ,https://www.sherwin-williams.com/document/PDS/en/035777132333/
+Latitude,https://www.sherwin-williams.com/document/PDS/en/035777948590/
+Emerald,https://www.sherwin-williams.com/document/PDS/en/035777107843/
+Emerald Rain Refresh,https://www.sherwin-williams.com/document/PDS/en/035777923450/
+A100,https://www.sherwin-williams.com/document/PDS/en/035777016992/
+Premium Ceiling,Premium Ceiling Paint
+Proclassic Latex,https://www.sherwin-williams.com/document/PDS/en/035777864135/iams PDSDB 2 - Sherwin PDS Links.csv…]()
+
 
 Key Features:
 - **Product_ID:** unique primary key assigned to all paints
